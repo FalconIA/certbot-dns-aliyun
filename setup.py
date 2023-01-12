@@ -11,7 +11,6 @@ version = '0.38.2'
 install_requires = [
     'acme>=0.21.1',
     'certbot>=0.21.1',
-    'dns-lexicon>=3.7.1',
     'mock',
     'setuptools',
     'zope.interface',
